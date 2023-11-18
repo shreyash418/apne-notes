@@ -23,8 +23,20 @@
     border: 0;
     outline: 0;
     border-radius: 5px;
+    cursor:pointer;
 }
-
+#adddBtn {
+    position: fixed;
+    left: 10px;
+    top: 10px;
+    background-color: #2d3436;
+    color: white;
+    padding: 10px;
+    border: 0;
+    outline: 0;
+    border-radius: 5px;
+    cursor: pointer;
+}
 .note {
     width: 400px;
     height: 400px;
